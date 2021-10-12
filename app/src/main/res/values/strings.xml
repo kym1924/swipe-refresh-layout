@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeRefreshLayout</string>
+    <string name="swipe_count">Try Swipe %d!</string>
+</resources>
